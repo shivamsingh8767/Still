@@ -1,0 +1,7 @@
+{
+  "name": "STILL — Contemporary Essentials",
+  "description": "Contemporary essentials for the modern individual. Clothing, footwear, watches and accessories, considered in detail.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
